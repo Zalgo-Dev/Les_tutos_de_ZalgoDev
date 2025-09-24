@@ -27,11 +27,15 @@ Choisissez Student, puis suivez les étapes.
 
 <img src="image-1.png" width="500">
 
+---
+
 ## 4) Valider et attendre
 
 Votre demande est soumise. Il faut attendre que GitHub la valide (cela peut prendre quelques heures à quelques jours).
 
 <img src="image-2.png" width="500">
+
+---
 
 ## 5) 🎉 Profitez !
 
