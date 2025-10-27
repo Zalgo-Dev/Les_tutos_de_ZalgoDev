@@ -22,7 +22,7 @@ Selon la mission, typiquement:
 - `mpmissions/dayzOffline.enoch/db/types.xml` (Livonia)
 - Pour une carte modée, utilisez le dossier `mpmissions/<mission>/db/`
 
-Remarque: ce dépôt contient des scripts d’installation/gestion (`install_dayz_server.py`, `serversManager.py`) et un serveur packagé sous `lasted_server/`. Adaptez le chemin de `types.xml` à votre mission active.
+Adaptez le chemin de `types.xml` à votre mission active.
 
 
 ## Structure d’un type
