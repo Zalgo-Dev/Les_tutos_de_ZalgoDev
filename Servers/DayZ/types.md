@@ -203,7 +203,6 @@ diff -u backups/types_*.xml | less
 ## Intégration dans ce dépôt
 
 - Déployez/éditez `types.xml` dans le dossier `mpmissions/<votre_mission>/db/` utilisé par votre instance.
-- Les scripts `install_dayz_server.py` et `serversManager.py` peuvent être étendus pour copier/valider `types.xml` lors d’un déploiement. Si vous souhaitez, on peut ajouter une commande utilitaire de validation/backup.
 
 
 ## Aide‑mémoire (cheatsheet)
