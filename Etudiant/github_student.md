@@ -16,7 +16,7 @@ Le GitHub Student Pack vous donne accès gratuitement à de nombreux outils de d
 
 ## 2) Vérifier votre email scolaire
 
-Allez vérifier votre boîte mail scolaire (connexion via [Microsoft Online](https://login.microsoftonline.com/common/login)) et cliquez sur le lien de confirmation envoyé par GitHub.
+Allez vérifier votre boîte mail scolaire (connexion via [Microsoft Online](https://login.microsoftonline.com/)) et cliquez sur le lien de confirmation envoyé par GitHub.
 
 ---
 
